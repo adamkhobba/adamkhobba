@@ -1,4 +1,4 @@
-[![MasterHead](file:///home/adam/Pictures/pixel-jeff-clipa-s.gif)]
+[![MasterHead](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)](https://www.youtube.com/watch?v=OoGn-ZKp8a4&t=9s)
 <h1 align="center">Hi 👋, I'm Adam Khobba</h1>
 <h3 align="center">A passionate frontend developer from Morocco, I'm student in 1337 coding school, Beng</h3>
 <img align="right" alt="Coding" width="400" src="https://www.codedex.io/images/codedex-bot-logo.gif">
@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamkhobba&show_icons=true&locale=en&layout=compact" alt="adamkhobba" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamkhobba&show_icons=true&locale=en" alt="adamkhobba" /></p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamkhobba&show_icons=true&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamkhobba&" alt="adamkhobba" /></p>

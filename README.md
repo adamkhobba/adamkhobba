@@ -1,14 +1,14 @@
 [![MasterHead](https://i.pinimg.com/originals/12/b2/3a/12b23a7752e8a7a4464c1ff5e596237f.gif)](https://www.youtube.com/watch?v=OoGn-ZKp8a4&t=9s)
 <h1 align="center">Hi 👋, I'm Adam Khobba</h1>
-<h3 align="center">A passionate frontend developer from Morocco, I'm student in 1337 coding school, Beng</h3>
+<h3 align="center">A passionate frontend developer from Morocco, I'm a student in 1337 coding school, Beng</h3>
 <img align="right" alt="Coding" width="400" src="https://www.codedex.io/images/codedex-bot-logo.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamkhobba&label=Profile%20views&color=0e75b6&style=flat" alt="adamkhobba" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Get_next_line](https://cdn.intra.42.fr/pdf/pdf/115778/en.subject.pdf)
+- 🔭 I’m currently working on [so_long]([https://cdn.intra.42.fr/pdf/pdf/115778/en.subject.pdf](https://cdn.intra.42.fr/pdf/pdf/106591/en.subject.pdf))
 
-- 🌱 I’m currently learning **C, Administration severs, ...**
+- 🌱 I’m currently learning **C, Administration servers, ...**
 
 - 💬 Ask me about **everything**
 

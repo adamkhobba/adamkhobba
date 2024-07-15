@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Minishell](https://cdn.intra.42.fr/pdf/pdf/65357/en.subject.pdf)
+- 🔭 I’m currently working on [Philosophers](https://cdn.intra.42.fr/pdf/pdf/73397/en.subject.pdf)
 
 - 🌱 I’m currently learning **C, Administration servers, ...**
 

@@ -53,10 +53,5 @@
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhxemIzbjduaXo3ZjM2Z3ppb3FvdnA2aTZheHBxYXI5NGd4bHN5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp"  />
 
 
-###
-
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/adamkhobba/adamkhobba/output/snake.svg" alt="Snake animation" />
-
-###

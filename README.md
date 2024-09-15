@@ -5,8 +5,8 @@
 ###
 
 <h2 align="left">Hi 👋! My name is Adam Khobba.<br>I'm a passionate developer from Morocco, a student at 1337 Coding School, Beng.</h2>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/akhobba" alt="akhobba's 42 stats" /></a>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adamkhobba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />

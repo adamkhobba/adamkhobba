@@ -21,6 +21,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30" alt="js logo"  width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="30" alt="docker logo"  width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="30" alt="python logo"  width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  width="50"/>
+  
 </div>
 
 ###

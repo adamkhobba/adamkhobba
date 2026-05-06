@@ -27,6 +27,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="30" alt="python logo"  width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="30" alt="git logo"  width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="30" alt="github logo"  width="50"/>
   </div>
   
 </div>
